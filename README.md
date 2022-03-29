@@ -17,7 +17,7 @@ Une application permettant d’authentifier un utilisateur.
 - Modifiez `config.php` avec vos identifiants
 
 
-##TECHNOLOGIES 
+## TECHNOLOGIES 
 
 1. PHP 7.4
 1. MYSQL 5.7
